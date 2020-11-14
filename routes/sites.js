@@ -1,9 +1,11 @@
 const express = require('express');
 const router = express.Router();
 const {
-  storeSiteDate
+  storeSiteData,
+  readSiteData
 } = require("../controllers/sites");
 
-router.route('/').get(storeSiteDate);
+router.route('/data').get(readSiteData);
+router.route('/').get(storeSiteData);
 
 module.exports = router;
