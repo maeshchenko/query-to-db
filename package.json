@@ -4,6 +4,7 @@
   "description": "Saving data from url query to mongoose database",
   "main": "server.js",
   "scripts": {
+    "start": "NODE_ENV=production node server",
     "dev": "nodemon server"
   },
   "author": "meshenko",

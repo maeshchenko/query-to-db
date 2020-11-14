@@ -13,6 +13,10 @@ const SiteSchema = new mongoose.Schema({
   message: {
     type: "string",
   },
+  createdAt: {
+    type: Date,
+    default: Date.now,
+  },
 });
 
 module.exports = mongoose.model("Site", SiteSchema);
