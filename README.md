@@ -13,7 +13,7 @@ Fields (All fields are not required):
   login:"admin"<br/>
   password:"password"<br/>
   url:"www.okna.ru"<br/>
-  message:"this is a test message"<br/>
+  message:"go to the /wp-admin.php"<br/>
   createdAt:2020-11-14T14:56:53.199+00:00<br/>
   __v:0<br/>
   
