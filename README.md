@@ -3,7 +3,7 @@ Saving data from url query to mongoose database
 
 **STORE INFO TO DATABASE:** just visit url <br>
 http://localhost:5000/?login=admin&password=password&url=www.okna.ru&message=this%20is%20a%20test%20message <br/>
-**result in database:**
+**result in database:**<br/>
   _id: 5faff035df03f467f51c58ec<br/>
   login:"admin"<br/>
   password:"password"<br/>
