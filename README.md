@@ -16,5 +16,5 @@ __v:0<br/>
 
 
 Usage:  
-Development: **npm run dev**
+Development: **npm run dev**<br/>
 Production: **npm run start**
