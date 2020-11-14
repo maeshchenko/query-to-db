@@ -7,7 +7,7 @@ Fields:
 - login   
 - password  
 - url   
-- message   
+- message  
 All fields are not required.  
 **result in database:**<br/>
   _id: 5faff035df03f467f51c58ec<br/>
