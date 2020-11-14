@@ -35,4 +35,4 @@ To do:
 -------------  
 1) auth for **/data**   
 2) table view of data in **/data**   
-3) 
+3) deploy to real vps
