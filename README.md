@@ -13,3 +13,8 @@ url:"www.okna.ru"<br/>
 message:"this is a test message"<br/>
 createdAt:2020-11-14T14:56:53.199+00:00<br/>
 __v:0<br/>
+
+
+Usage:  
+Development: **npm run dev**
+Production: **npm run start**
