@@ -15,6 +15,12 @@ createdAt:2020-11-14T14:56:53.199+00:00<br/>
 __v:0<br/>
 
 
-Usage:  
+Usage:<br/>
+1) add data to *config/config.enc*
+  NODE_ENV=development<br/>
+  PORT=5000<br/>
+  MONGO_URI=**YOUR MONGO URI**<br/>
+
+2) start server:<br/>
 Development: **npm run dev**<br/>
 Production: **npm run start**
