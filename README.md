@@ -16,7 +16,7 @@ __v:0<br/>
 
 
 Usage:<br/>
-1) add data to *config/config.enc*
+1) create file and add data to *config/config.env*:<br/>
   NODE_ENV=development<br/>
   PORT=5000<br/>
   MONGO_URI=**YOUR MONGO URI**<br/>
